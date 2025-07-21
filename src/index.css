@@ -1,0 +1,19 @@
+.strikethrough{
+
+    text-decoration: line-through;
+}
+.Main-div{
+
+  display: flex;
+  justify-content: center;  /* horizontal */
+  align-items: center;      /* vertical */
+  height: 100%; 
+  width: 100%;     
+  flex-direction: column;      /* full viewport height */
+  background-color: #fafafa;
+  margin: 100;
+}
+
+.Add{
+    margin-top: 2vh;
+}
